@@ -1,0 +1,26 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json",
+    "start": "node index.js"
+  },
+  "author": "MYA",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "description": "Clock ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUHAMMED-YUSUF-ADIYAMAN/npm-lab.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "bugs": {
+    "url": "https://github.com/MUHAMMED-YUSUF-ADIYAMAN/npm-lab/issues"
+  },
+  "homepage": "https://github.com/MUHAMMED-YUSUF-ADIYAMAN/npm-lab#readme"
+}
